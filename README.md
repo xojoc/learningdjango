@@ -10,7 +10,7 @@ This project uses the following stack:
     
 I also use it as the base for my tutorials and articles on [my blog](https://xojoc.pw/blog/).
 
-# Steps to recreate the project from sracth
+# Steps to recreate the project from scratch
 
 Create a new directory and switch to it
 ```shell script
